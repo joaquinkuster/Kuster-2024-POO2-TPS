@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/DELL/Desktop/Kuster-2024-POO2-TPS/GA - 2024 POO2 - TP 02 - Documentación en Java/Escenarios del TP 01/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/DELL/Desktop/Kuster-2024-POO2-TPS/GA - 2024 POO2 - TP 02 - Documentación en Java/Escenarios del TP 01/demo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example.Ejer1
+com.example.Ejer2
+com.example.Ejer3
+com.example
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\src\main\java = 1729278405528
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\allclasses-index.html = 1729280539450
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\allpackages-index.html = 1729280539453
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\copy.svg = 1729280539527
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\element-list = 1729280539254
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\help-doc.html = 1729280539519
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\index-all.html = 1729280539505
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\index.html = 1729280539418
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\link.svg = 1729280539529
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\member-search-index.js = 1729280539461
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\module-search-index.js = 1729280539456
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\overview-summary.html = 1729280539511
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\overview-tree.html = 1729280539412
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\package-search-index.js = 1729280539457
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\script.js = 1729280539525
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\search-page.js = 1729280539534
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\search.html = 1729280539509
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\search.js = 1729280539532
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\stylesheet.css = 1729280539522
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\tag-search-index.js = 1729280539462
+C:\Users\DELL\Desktop\Kuster-2024-POO2-TPS\GA - 2024 POO2 - TP 02 - Documentación en Java\Escenarios del TP 01\demo\target\reports\apidocs\type-search-index.js = 1729280539459
